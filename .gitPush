@@ -1,0 +1,4 @@
+git add -A 
+git commit -m "my workflow pushed %time%"
+git push --force-with-lease origin master
+
