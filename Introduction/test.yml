@@ -1,0 +1,46 @@
+name: Gunjan 
+age: 20
+address: "Germnay: Berlin"
+active: true
+key:
+    key1: value
+    key2: 33
+    key3:
+        key31: game 
+        key32: pubg
+
+jsonObject: {key: value, key2:33, key3:{key31: game, key32: pubg}}
+
+  
+array:
+    - item1
+    - item2
+    - irem3
+    - {key: value, key2: game}
+
+
+jsonArray: [item1, item2]
+
+objectArray:
+    - {key: value, key2: game} 
+
+    - key1: game
+    - key2: pubg
+
+    - key3: value1
+      key31: game1
+
+
+
+
+
+LongText1: >
+          game is one. 
+          now i am playing a important role in the game. 
+          i am talking about pubg
+  
+
+LongText2: |
+          game is one. 
+          now i am playing a important role in the game. 
+          i am talking about pubg
