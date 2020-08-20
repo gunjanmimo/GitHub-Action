@@ -8,7 +8,7 @@ jobs:
 
       steps: 
         - name: echo a string
-          run: eclo "hello world"
+          run: echo "hello world"
         - name: multiline script
           run: |
             node -v
